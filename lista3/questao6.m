@@ -63,10 +63,10 @@ else
 end
 
 % REQUISITOS PARTE 2
-% Existe alguns requisitos de quem não pode doar sangue:
-% Estiver com febre no dia da doação.
-% Estiver grávida.
-% Estiver amamentando, a menos que o parto tenha ocorrido há mais de 12 meses.
+% Existe alguns requisitos de quem nao pode doar sangue:
+% Estiver com febre no dia da doacao.
+% Estiver gravida.
+% Estiver amamentando, a menos que o parto tenha ocorrido ha mais de 12 meses.
 
 if(etapa2_triagem == 1)
     fprintf('\nEtapa 2 da triagem\n');
